@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pexeso</string>
+    <string name="pexeso">Pexeso</string>
+    <string name="pexesoText">pexeso</string>
+    <string name="unknown">\?</string>
+    <string name="reset">Reset</string>
+</resources>
